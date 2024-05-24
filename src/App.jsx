@@ -8,7 +8,7 @@ const App = () => {
               KOPAs CONNECT
             </h1>
             <p className=' text-green-950 lg:text-[1.5rem] '>
-              Your one-drop stop for everything NYSC
+              Your one-stop shop for everything NYSC
             </p>
           </div>
 
