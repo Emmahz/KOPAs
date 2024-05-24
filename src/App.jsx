@@ -4,7 +4,7 @@ const App = () => {
       <div className='flex justify-center items-center w-full h-full'>
         <div className='opac m-auto flex flex-col justify-center items-center gap-[30px] lg:px-0 px-[30px]  lg:py-0 py-[70px]  lg:gap-[50px] lg:h-[70%] lg:w-[40%]'>
           <div className='flex justify-center  items-center flex-col '>
-            <h1 className='lg:font-semibold font-bold text-green-950 lg:text-[3rem]'>
+            <h1 className='lg:font-semibold font-bold text-green-950 lg:text-[4rem]'>
               KOPAs CONNECT
             </h1>
             <p className=' text-green-950 lg:text-[2rem] '>
